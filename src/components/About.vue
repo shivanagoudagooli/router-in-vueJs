@@ -1,5 +1,6 @@
 <template>
   <div class="about">
+    <h1>create free account</h1>
      <h1>Create Account</h1>
       USERNAME:<input type="text"/><br>
       <br>
